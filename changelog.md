@@ -4,6 +4,8 @@ Team membership:  Trista H (Captain) & Fred Y (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+Created Trivial View & Controllers (Fred Y)
+
 ## *Version 1.0*
 
 Release Date: Jan 26, 2017
