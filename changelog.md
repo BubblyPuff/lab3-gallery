@@ -4,7 +4,9 @@ Team membership:  Trista H (Captain) & Fred Y (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-Created Trivial View & Controllers (Fred Y)
+1.Static to Trivial Website Conversion (Mate)
+2.Trivial to Basic Website Conversion (Captain)
+3.Basic to Good Website Conversion (Mate)
 
 ## *Version 1.0*
 
